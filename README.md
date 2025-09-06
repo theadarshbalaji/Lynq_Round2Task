@@ -164,19 +164,4 @@ Install them manually if needed:
 pip install pypdf openai
 ```
 
----
 
-## 🚀 Future Improvements
-- Add unit tests for each module.  
-- Enhance PDF analyzer with visualization.  
-- Expand chatbot to handle more intents beyond weather.  
-
----
-
-## 🖼️ Project Preview
-![Project Screenshot](a2a06157-5935-4630-9b9f-b5fe0db90047.png)
-
----
-
-## 📝 License
-This project is for learning/demo purposes. Modify and use freely.
